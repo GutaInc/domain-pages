@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Welcome
 description: [This domain might be for sale!]
 github:
-  is_project_page: 0
+  is_project_page: false
